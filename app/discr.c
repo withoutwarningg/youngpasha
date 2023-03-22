@@ -9,9 +9,9 @@ int discr(double a, double b, double c)
  
 if (D>0)
 {
-    x=(-b+sqrt(D))/(2*a);
+    x1=(-b+sqrt(D))/(2*a);
     printf("X1=%f \n", x);
-    x=(-b-sqrt(D))/(2*a);
+    x2=(-b-sqrt(D))/(2*a);
     printf("X2=%f \n", x);
  
 }
