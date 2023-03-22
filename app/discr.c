@@ -4,15 +4,15 @@
 
 int discr(double a, double b, double c)
 {
-    double D,x;
+    double D,x1,x2;
     D=b*b-4*a*c;
  
 if (D>0)
 {
     x1=(-b+sqrt(D))/(2*a);
-    printf("X1=%f \n", x);
+
     x2=(-b-sqrt(D))/(2*a);
-    printf("X2=%f \n", x);
+
  
 }
 else if (D < 0)
@@ -23,8 +23,8 @@ else if (D < 0)
 else
 { 
 
-    x = b*(-1)/2*a;
-    printf("x=%f\n",x);
+    x1 = b*(-1)/2*a;
+    printf("x=%f\n",x1);
 }
     
 return 0;
