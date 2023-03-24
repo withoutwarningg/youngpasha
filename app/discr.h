@@ -1,7 +1,6 @@
-#ifndef DISCR_H
-#define DISCR_H
+#ifndef MYFUNC_H
+#define MYFUNC_H
 
-int discr(double a, double b, double c);
+int qvadr(float a, float b, float c, float* x1, float* x2, int* flag);
 
-
-#endif //
+#endif // 
