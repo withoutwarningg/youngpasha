@@ -1,8 +1,8 @@
-[![CI/CD GitHub Actions](https://github.com/seekerk/gtest/actions/workflows/test-action.yml/badge.svg)](https://github.com/seekerk/gtest/actions/workflows/test-action.yml)
-[![Coverage Status](https://coveralls.io/repos/seekerk/gtest/badge.svg?branch=master)](https://coveralls.io/github/seekerk/gtest?branch=master)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=seekerk_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=seekerk_ctest)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=seekerk_gtest&metric=code_smells)](https://sonarcloud.io/dashboard?id=seekerk_gtest)
+[![CI/CD GitHub Actions](https://github.com/withoutwarningg/youngpasha/actions/workflows/test-action.yml/badge.svg)](https://github.com/withoutwarningg/youngpasha/actions/workflows/test-action.yml/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/withoutwarningg/youngpasha/badge.svg?branch=master)](https://coveralls.io/repos/withoutwarningg/youngpasha/badge.svg?branch=master)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=alert_status)](https://sonarcloud.io/dashboard?id=withoutwarningg_youngpasha)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=bugs)](https://sonarcloud.io/summary/new_code?id=withoutwarninng_youngpasha)
+[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=code_smells)](https://sonarcloud.io/dashboard?id=withoutwarningg_youngpasha)
 
 # Пример работы связки Qt + Google Test (gtest) + QtCreator
 
