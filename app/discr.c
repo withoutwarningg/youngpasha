@@ -4,7 +4,7 @@
 #include <math.h>
 #include "discr.h"
 
-
+/* функция подсчёта корней квадратного уравнения(a,b,c - коэффициенты, х1, х2 - корни)*/
 int qvadr(float a, float b, float c, float* x1, float* x2, int* flag) {
   float d;
   *flag = 0;
@@ -12,6 +12,7 @@ int qvadr(float a, float b, float c, float* x1, float* x2, int* flag) {
   // Discriminant
   d = b*b - 4*a*c;
 
+  // если первый коэф. == 0
   if (a == 0) {
       if (b != 0) {
         *x1 = *x2 = -c/b;
@@ -22,7 +23,7 @@ int qvadr(float a, float b, float c, float* x1, float* x2, int* flag) {
     return 0;
   }
 
-
+  // если дискр. > 0
   if (d>0) {
       *x1 = (-b + sqrt(d)) / (2*a);
       *x2 = (-b - sqrt(d)) / (2*a);
