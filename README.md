@@ -1,5 +1,5 @@
 [![CI/CD GitHub Actions](https://github.com/withoutwarningg/youngpasha/actions/workflows/test-action.yml/badge.svg)](https://github.com/withoutwarningg/youngpasha/actions/workflows/test-action.yml)
-[![Coverage Status](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_96.svg)]([https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_96.svg](https://coveralls.io/github/withoutwarningg/youngpasha))
+[![Coverage Status](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_96.svg)](https://coveralls.io/github/withoutwarningg/youngpasha))
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=withoutwarningg_youngpasha)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=bugs)](https://sonarcloud.io/summary/new_code?id=withoutwarningg_youngpasha)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=withoutwarningg_youngpasha&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=withoutwarningg_youngpasha)
